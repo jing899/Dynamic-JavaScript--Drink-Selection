@@ -1,2 +1,3 @@
 # Dynamic JavaScript- Drink Selection
  
+A web page that contains a form usingselectpull-down elements.  Once the user selects the desired option, the script will dynamically create another pull-down element whose contents will depend upon the visitor's first choice...
